@@ -8,7 +8,7 @@ We approached this solution by focusing on three main pillars:
 1.	User Engagement: By using IBM Watsonx Assistant, we built an interactive interface where users can ask questions and receive relevant responses instantly.
 2.	Automation: The solution reduces the workload of healthcare professionals by automating common healthcare interactions, thus saving time and operational costs.
 3.	Scalability and Reliability: Utilizing IBM Cloud, we ensured that the assistant is scalable to handle a large number of user queries simultaneously.
-4.	
+   
 Let me now guide you through the demo.
 
 As you can see in the attached architecture image, our solution consists of multiple stages of interaction.
